@@ -480,7 +480,7 @@ h1, h2{
         }
 }
 
-@media screen and (min-width:992px) and (max-width:1200px) {
+@media screen and (max-width:1200px) {
     .banner video{
         width: 20rem;
         border-radius: 1rem;
